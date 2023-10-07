@@ -17,4 +17,4 @@
 - https://www.linkedin.com/in/ilkhukuk/
 
 # Screenshot
-! [] (screen.gif)
+![](screen.gif)
